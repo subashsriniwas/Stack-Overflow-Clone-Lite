@@ -1,10 +1,8 @@
 # StackOverflow Lite - My Version
 
-Contributor
-
-Subash Sriniwas M
-
-smsubash234@gmail.com
+##Contributor
+-Subash Sriniwas M
+-smsubash234@gmail.com
 
 Welcome to my coding haven! 👋 I'm Subazz, a passionate software developer with an insatiable curiosity for crafting elegant solutions to complex problems. My repositories reflect a journey of continuous learning, innovation, and a commitment to clean and efficient code.
 
@@ -23,6 +21,10 @@ Email: smsubash234@gmail.com
 LinkedIn: https://www.linkedin.com/in/subash-sriniwas/
 
 This project is a StackOverflow clone with basic features, including user authentication, question creation, answering, image uploading, and voting. The frontend is developed using Angular, and the backend is built with Spring Boot. JWT is used for security.
+
+## Note
+
+-Some of the features were under development. Stay tuned for more updates👽.
 
 ## Prerequisites
 
