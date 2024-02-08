@@ -107,3 +107,7 @@ This project is a StackOverflow clone with basic features, including user authen
 - Make sure to configure your MySQL database and update the application.properties file accordingly.
 - Ensure that the frontend and backend are running simultaneously for the full application experience.
 
+## Notes
+
+- If you have any queries, feel free to contact me. Contacts details were given in bio. Happy coding! 🚀
+
