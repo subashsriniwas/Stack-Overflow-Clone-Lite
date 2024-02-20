@@ -26,11 +26,11 @@ LinkedIn: https://www.linkedin.com/in/subash-sriniwas/
 
 ### ---
 
-This project is a StackOverflow clone with basic features, including user authentication, question creation, answering, image uploading, and voting. The frontend is developed using Angular, and the backend is built with Spring Boot. JWT is used for security.
+- This project is a StackOverflow clone with basic features, including user authentication, question creation, answering, image uploading, and voting. The frontend is developed using Angular, and the backend is built with Spring Boot. JWT is used for security.
 
 ## Note
 
--Some of the features were under development. Stay tuned for more updates👽.
+- Some of the features were under development. Stay tuned for more updates👽.
 
 ## Prerequisites
 
